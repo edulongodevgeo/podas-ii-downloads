@@ -17,15 +17,15 @@ Bem-vindo! Esta página disponibiliza os aplicativos para você criar seus próp
 
 ## Downloads
 
-**Desktop 0.26.0 · Android 0.19.0 (código 26)**
+**Desktop 0.39.0 · Android 0.20.1 (código 28)**
 
 | Aplicativo | Uso e requisito | Download |
 | --- | --- | --- |
-| 🖥️ **Desktop Windows** | Análise e gestão no escritório · Windows 10/11 de 64 bits | **[Baixar instalador .exe](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.26.0-android-0.19.0-26/PodasII_0.26.0_Instalador_windows-x64.exe)** · 242 MB |
-| 📱 **Equipe Android** | Registrar a execução em campo · Android 7 ou superior | **[Baixar APK Equipe](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.26.0-android-0.19.0-26/PodasII_equipe_0.19.0.apk)** · 56 MB |
-| ✅ **Fiscal Android** | Conferir a execução e devolver os resultados · Android 7 ou superior | **[Baixar APK Fiscal](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.26.0-android-0.19.0-26/PodasII_fiscal_0.19.0.apk)** · 56 MB |
+| 🖥️ **Desktop Windows** | Análise e gestão no escritório · Windows 10/11 de 64 bits | **[Baixar instalador .exe](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.39.0-android-0.20.1-28/PodasII_0.39.0_Instalador_windows-x64.exe)** · 242 MB |
+| 📱 **Equipe Android** | Registrar a execução em campo · Android 7 ou superior | **[Baixar APK Equipe](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.39.0-android-0.20.1-28/PodasII_equipe_0.20.1.apk)** · 56 MB |
+| ✅ **Fiscal Android** | Conferir a execução e devolver os resultados · Android 7 ou superior | **[Baixar APK Fiscal](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.39.0-android-0.20.1-28/PodasII_fiscal_0.20.1.apk)** · 56 MB |
 
-[Arquivos e notas desta versão](https://github.com/edulongodevgeo/podas-ii-downloads/releases/tag/teste-desktop-0.26.0-android-0.19.0-26) · [Versões anteriores](https://github.com/edulongodevgeo/podas-ii-downloads/releases) · [Checksums SHA-256](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.26.0-android-0.19.0-26/SHA256SUMS.txt) · [Verificação da entrega](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.26.0-android-0.19.0-26/VALIDACAO.json)
+[Arquivos e notas desta versão](https://github.com/edulongodevgeo/podas-ii-downloads/releases/tag/teste-desktop-0.39.0-android-0.20.1-28) · [Versões anteriores](https://github.com/edulongodevgeo/podas-ii-downloads/releases) · [Checksums SHA-256](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.39.0-android-0.20.1-28/SHA256SUMS.txt) · [Verificação da entrega](https://github.com/edulongodevgeo/podas-ii-downloads/releases/download/teste-desktop-0.39.0-android-0.20.1-28/VALIDACAO.json)
 
 Você pode baixar diretamente, sem convite ou conta no GitHub. Os itens “Source code” gerados pelo GitHub contêm apenas a documentação deste repositório; para usar o sistema, escolha o `.exe` ou o `.apk` acima. A distribuição pública atual contempla Windows e Android.
 
@@ -49,11 +49,17 @@ Se o computador já possui Podas II, o instalador pode reutilizar a pasta de dad
 
 Os APKs são assinados com o certificado do aplicativo. Instalar uma atualização sobre uma instalação existente preserva os trabalhos do aparelho. Não limpe os dados nem desinstale enquanto houver trabalhos não exportados. Em aparelho restaurado de backup, confira se o Android recuperou dados anteriores.
 
+## O que você encontra no desktop
+
+**Visão geral** reúne mapa BDGD, histórico por objeto, indicadores e próximas ações.
+**Solicitações** mantém carteira, mapa e processamento na mesma tela. A comparação
+NDVI identifica as datas, e o Street View abre em uma janela centralizada.
+
 ## Seu primeiro ciclo
 
 | Etapa | Experimente | Confira |
 | --- | --- | --- |
-| **1 · Desktop** | Crie uma solicitação sua, confira a análise, selecione o destinatário e gere um lote. | A entrega contém apenas os atendimentos selecionados. |
+| **1 · Desktop** | Crie uma solicitação, confira a análise e use Enviar ao campo. Digite o destinatário ao preparar os arquivos. | Cada registro selecionado gera seu próprio arquivo .podas. |
 | **2 · Equipe** | Abra o lote, preencha serviços, quantidades e suas fotos de teste; salve e prepare a entrega ao fiscal. | O trabalho continua disponível após fechar e reabrir o aplicativo. |
 | **3 · Fiscal** | Confira os serviços e as evidências. Prepare o retorno ao escritório ou solicite uma correção à equipe. | Pareceres e correções acompanham o atendimento. |
 | **4 · Desktop** | Receba o retorno, confira a prévia e incorpore. Consolide os atendimentos resolvidos e exporte o relatório. | Os resultados correspondem ao que vocês registraram. |
